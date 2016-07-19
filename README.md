@@ -8,7 +8,7 @@ Use secondary branches to contribute
 *  Speaker
 *  Level of battery charge
 *  Control via wifi module over internet (For example: In a house family I want connect by internet to robot that is in my home.)
-
+*  Camera IP battery powered, with remote access (may be standalone of arduino system)
 
 ## Future features:
 * MQ-2 Gas sensor module
