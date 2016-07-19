@@ -14,8 +14,7 @@ Current sensing 1.65V/A
 Free running stop and brake function
 
 ###NEW UNO R3 ATmega328P CH340 Mini USB Board for Compatible-Arduino
-2PCS Ultrasonic Sensor Module HC-SR04 Distance Measuring Sensor for arduino SR04
-
+###Ultrasonic Sensor Module HC-SR04 Distance Measuring Sensor for arduino SR04
 ###Tamiya Tracked Vehicle Chassis 70108 NIB
 ###Tamiya Double Gear Box 4-Speed 70168 NIB
 ###Tamiya Universal Plate 70098 NIB
