@@ -1,7 +1,8 @@
-//Motor shield dual motor
-//Control via wifi module
-//MQ-2 Gas sensor module
+//Motor shield dual DC motor
 //Ultrasonic Sensor Module
 //Speaker
+//Level of battery charge
+//Control via wifi module over internet
+//MQ-2 Gas sensor module
 //robot arm
-//battery charge
+//Construction of station charge base
