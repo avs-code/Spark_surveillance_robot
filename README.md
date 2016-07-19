@@ -8,7 +8,7 @@ Use secondary branches to contribute
 *  Level of battery charge or low battery warning
 ####  Important features to resolve first:
 
-*  Control via wifi module over internet (For example: In a house family I want connect by internet to robot that is in my home.)
+*  Control via wifi module over internet (For example: In a house family I want connect by internet to robot that is in my home. I see two options, 1. Via arduino but require a wifi shield module and code to comunications plus client control software. 2 Search a camera with pan and tilt with control software included, use pan and tilt to control two motors)
 *  Camera IP battery powered, with remote access (may be standalone of arduino system)
 
 ## Future features:
