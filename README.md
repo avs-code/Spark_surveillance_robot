@@ -6,6 +6,7 @@ Use secondary branches to contribute
 *  Motor shield dual DC motor
 *  Ultrasonic Sensor Module
 *  Level of battery charge
+##  Important features:
 *  Control via wifi module over internet (For example: In a house family I want connect by internet to robot that is in my home.)
 *  Camera IP battery powered, with remote access (may be standalone of arduino system)
 
