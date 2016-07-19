@@ -5,18 +5,19 @@ Use secondary branches to contribute
 ##  Initial features:
 *  Motor shield dual DC motor
 *  Ultrasonic Sensor Module
-*  Speaker
 *  Level of battery charge
-*  Control via wifi module over internet
+####  Important features to resolve first:
 
+*  Control via wifi module over internet (For example: In a house family I want connect by internet to robot that is in my home.)
+*  Camera IP battery powered, with remote access (may be standalone of arduino system)
 
-## future features:
+## Future features:
 * MQ-2 Gas sensor module
 * robot arm
 * Construction of station charge base
 
 
-##  My hardware:
+##  My hardware in this moment:
 
 ###  [Shield deek-motor L298P Shield R3 DC Motor Driver Module 2A H-Bridge 2 way For Arduino UNO 2560](https://github.com/arv187/Spark_surveillance_robot/wiki/Hardware)
 ###  NEW UNO R3 ATmega328P CH340 Mini USB Board for Compatible-Arduino
