@@ -7,7 +7,7 @@ Use secondary branches to contribute
 *  Ultrasonic Sensor Module
 *  Speaker
 *  Level of battery charge
-*  Control via wifi module over internet
+*  Control via wifi module over internet (For example: In a house family I want connect by internet to robot that is in my home.)
 
 
 ## Future features:
