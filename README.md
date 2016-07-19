@@ -5,7 +5,7 @@ Use secondary branches to contribute
 ##  Initial features:
 *  Motor shield dual DC motor
 *  Ultrasonic Sensor Module
-*  Level of battery charge
+*  Level of battery charge or low battery warning
 ####  Important features to resolve first:
 
 *  Control via wifi module over internet (For example: In a house family I want connect by internet to robot that is in my home.)
@@ -14,7 +14,7 @@ Use secondary branches to contribute
 ## Future features:
 * MQ-2 Gas sensor module
 * robot arm
-* Construction of station charge base
+* Construction of station charge base (parking)
 
 
 ##  My hardware in this moment ([wiki to more details] (https://github.com/arv187/Spark_surveillance_robot/wiki/Hardware)):
