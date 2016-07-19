@@ -16,7 +16,7 @@ Use secondary branches to contribute
 * Construction of station charge base
 
 
-##  My hardware:
+##  My hardware in this moment:
 
 ###  [Shield deek-motor L298P Shield R3 DC Motor Driver Module 2A H-Bridge 2 way For Arduino UNO 2560](https://github.com/arv187/Spark_surveillance_robot/wiki/Hardware)
 ###  NEW UNO R3 ATmega328P CH340 Mini USB Board for Compatible-Arduino
