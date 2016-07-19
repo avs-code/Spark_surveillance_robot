@@ -3,7 +3,7 @@ Spark_surveillance_robot is my first project with arduino.
 
 Use secondary branches to contribute
 
-##  My hardware *see wiki to details*:
+##  My hardware *(see wiki to details)*:
 
 ###  Shield deek-motor L298P Shield R3 DC Motor Driver Module 2A H-Bridge 2 way For Arduino UNO 2560
 ###  NEW UNO R3 ATmega328P CH340 Mini USB Board for Compatible-Arduino
