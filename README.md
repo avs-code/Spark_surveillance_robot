@@ -10,7 +10,7 @@ Use secondary branches to contribute
 *  Control via wifi module over internet
 
 
-## future features:
+## Future features:
 * MQ-2 Gas sensor module
 * robot arm
 * Construction of station charge base
