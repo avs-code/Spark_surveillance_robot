@@ -1,5 +1,6 @@
 # Spark_surveillance_robot
 Spark_surveillance_robot is my first project with arduino.
+The idea its make a robot similar to rovio robot.
 
 Use secondary branches to contribute
 ##  Initial features:
