@@ -4,8 +4,7 @@ Config-->airports;
 airports-->Addnew;
 Addnew-->ICAO;
 ICAO-->Lookup;
-Lookup-->GroundHandlingCost;
+Lookup-->GroundHandlingCost-->Fuel;
 GroundHandlingCost-->ExcelcolumnaJ;
-Lookup-->Fuel-->DelaAalaN
 Fuel-->DelaAalaN;
 ```
